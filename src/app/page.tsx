@@ -80,11 +80,11 @@ export default async function Home() {
                 <div className="font-mono text-sm space-y-3">
                   <div className="flex items-center gap-2">
                     <span className="text-primary">$</span>
-                    <span className="text-green-500">git clone internal-repo/webapp-starter</span>
+                    <span className="text-green-500">git clone https://github.com/dylan-vpa/web-app-starter-template.git</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <span className="text-primary">$</span>
-                    <span className="text-foreground">cd webapp-starter</span>
+                    <span className="text-foreground">cd web-app-starter</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <span className="text-primary">$</span>
